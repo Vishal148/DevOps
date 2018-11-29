@@ -1,4 +1,3 @@
-package Shubh.devops;
 
 /**
  * Hello world!
